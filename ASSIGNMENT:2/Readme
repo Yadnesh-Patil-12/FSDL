@@ -1,15 +1,16 @@
-# 📝 Assignment 1: HTML Text Formatting Tags
+# 🎨 Assignment 2: Personal Portfolio
+### 📌 Objective
+Design a personal portfolio website.
 
-## 📌 Objective
-Create a static web page that demonstrates all HTML text formatting tags in tabular format.
+### ⚙️ Tech Stack
+- HTML5  
+- CSS3  
+- Bootstrap  
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
+### ✨ Features
+- About Me  
+- Skills & Projects  
+- Contact Section  
+- Responsive Design  
 
-## 📂 Features
-- Table showing all formatting tags
-- Examples for each tag
-- Clean and simple UI
-
-## 📁 Project Structure
+---
