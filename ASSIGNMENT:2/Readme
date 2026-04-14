@@ -1,0 +1,39 @@
+# 🌐 Assignment 2: Personal Portfolio Website
+
+## 📌 Objective
+Design a personal portfolio using HTML & CSS (Bootstrap optional).
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Bootstrap (CDN)
+
+## 📂 Features
+- About Me section
+- Projects showcase
+- Contact section
+- Responsive design
+
+## 📁 Structure
+
+assignment2/
+│── index.html
+│── style.css
+│── assets/
+
+
+## 🚀 Run
+Open `index.html` in browser
+
+## 📸 Output
+(Add screenshot)
+
+## 🔗 Sections
+- Home
+- About
+- Skills
+- Projects
+- Contact
+
+## 👨‍💻 Author
+Yadnesh Patil
