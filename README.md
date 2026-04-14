@@ -151,7 +151,7 @@ Yadnesh Patil
 
 This project is created for academic purposes only.
 
-⭐ Support
+⭐ Support 
 
 If you like this project, give it a ⭐ on GitHub!
 
