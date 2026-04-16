@@ -7,7 +7,7 @@ The lab focuses on building practical skills in:
 - Frontend Development
 - Backend Development
 - Database Integration
-- Full Stack (MERN) Applications
+- Full Stack (MERN) Applications 
 
 ---
 
