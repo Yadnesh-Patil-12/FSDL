@@ -10,7 +10,7 @@ The lab focuses on building practical skills in:
 - Full Stack (MERN) Applications 
 
 ---
-
+ 
 ## 🎯 Objectives
 - Learn complete web development lifecycle  
 - Build real-world applications  
