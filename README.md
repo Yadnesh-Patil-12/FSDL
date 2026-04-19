@@ -6,7 +6,7 @@ This repository contains all the assignments and mini-projects completed as part
 The lab focuses on building practical skills in:
 - Frontend Development
 - Backend Development
-- Database Integration
+- Database Integration 
 - Full Stack (MERN) Applications 
 
 ---
